@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>frtbot</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url('bg.jpg');
+  background-size: cover;
+  background-position: center center;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  margin: 0 0 50px;
+}
+
+h2 {
+    text-shadow: 1px 1px 2px rgba(0,0,0,1);
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.chat-container {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.7);
+  overflow: hidden;
+  padding: 15px;
+  position: relative;
+  width: 320px;
+  max-width: 100%;
+}
+
+.chat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 20%;
+
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    color: red;
+}
+
+footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}
+</style>
+<body>
+    <h1 style="color: black;">FRT BOT</h1>
+
+
+
+
+    <h2 style="color: black;">Ask Your Question. <br /> In Chat Interface</h2>
+<div class="chat-container">
+  <ul class="chat">
+    <iframe src='https://webchat.botframework.com/embed/frtbot-bot?s=XU5Y5aTgI6s.DZQ65I68sFUnYJR5BY8LL103Ts4OChA-ME0Qyb4Wg9Y'  style='min-width: 40%;  min-height: 100%;height: 500px ;></iframe>
+  </ul>
+  
+</div>
+
+<footer>
+  <p>
+    Created with <i class="fa fa-heart"></i> by
+    <a target="_blank" href="https://florin-pop.com">Florin Pop</a>
+    - Read how I created this and how you can join the challenge
+    <a target="_blank" href="https://www.florin-pop.com/blog/2019/04/chat-interface/">here</a>
+  </p>
+</footer>
+
+
+
+</body>
+</html>
