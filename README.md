@@ -1,4 +1,4 @@
-# <a href="https://thankful-flower-0fefec010.1.azurestaticapps.net/">FRT Query answer ChatBot with QnA Bot</a>
+# <a href="https://thankful-flower-0fefec010.1.azurestaticapps.net/">future ready talent FAQ chat Bot with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@ ED-Tech
 
 
 ### Project Title :
-FRT bot with QnA Bot
+future ready talent FAQ chat Bot
 
 
 ### Problem Statement/Opportunity :
