@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-This is a single Page question answer chatbot Front End website design
+This is a single Page question answer chatbot Front End website 
 
 Web Technologies used: HTML, CSS
 
