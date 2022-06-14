@@ -1,4 +1,4 @@
-# <a href="https://thankful-flower-0fefec010.1.azurestaticapps.net/">future ready talent FAQ chat Bot with QnA Bot</a>
+# <a href="https://rudransh-hub.github.io/frtbot/">future ready talent FAQ chat Bot with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +45,8 @@ Our Project is intended to help and support people with the necessary informatio
 >App Service<br>
 
 <b>Project Link : https://thankful-flower-0fefec010.1.azurestaticapps.net/ </b>
+ 
+ https://rudransh-hub.github.io/frtbot/</br>
   
  
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/FRT.jpeg" width="700" height= "350"></p></a>  
